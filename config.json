@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "mini-todo-app",
+      "title": "Mini To-Do App",
+      "description": "Build a simple Flask web app for managing a list of tasks",
+      "path": "assignments/mini-todo-app",
+      "dueDate": "2026-08-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
